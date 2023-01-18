@@ -1,0 +1,6 @@
+pepe;123;admin
+pepe;1234;asistente
+pepe;33;gestor
+pepe;444;gestor
+pepe;444;asistente
+pepe;2122;admin
